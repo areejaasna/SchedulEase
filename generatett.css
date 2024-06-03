@@ -1,0 +1,148 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+nav{
+    background-color: #CF9FFF;
+    font-weight:600;
+}
+
+nav a .color-me{
+    color: black;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0 15px;
+    font-size: 18px;
+    /* background-color:#CF9FFF  !important; */
+}
+
+nav a{
+    text-decoration: none;
+    color:black;
+} 
+
+button {
+    background-color: #CF9FFF  !important;
+    color: #000  !important;
+    font-weight:400 !important;
+}
+
+
+.btn:hover{
+    background-color: darkgrey  !important;
+    color: #000  !important;;
+}
+
+.list-group-item, select {
+    width: 200px;
+    border: 1px solid #ccc;
+    position:fixed;
+    left:00px;
+    
+  }
+
+  #semester_type, select {
+    width: 480px;
+    border: 1px solid #ccc;
+    /* position:fixed; */
+    left:530px;
+    
+  }
+  
+  button {
+    
+    /* left:867px; */
+    left:250px;
+    padding: 0px;
+    width: 200px;
+    background-color: #CF9FFF ;
+    border: 1px solid #ccc;
+    font-weight:400;
+    font-size:200px;
+  }
+  /* div select, button{
+    height:40px;
+  } */
+
+  
+  .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited, a {
+    background-color: #CF9FFF !important;
+        text-decoration: none;
+        color:black;
+    
+}
+/* #generatebutton{
+    background-color: #775698  !important;
+    color:aliceblue  !important;
+
+} */
+
+
+
+#myBtn{
+    background-color: #775698  !important;
+    color:aliceblue  !important;
+
+}
+
+.modal-header, h4, .close {
+    background-color: #CF9FFF;
+    color:#000 !important;
+    text-align: center;
+    font-size: 30px;
+    }
+    /* .modal-footer {
+    background-color: #CF9FFF;
+    } */
+
+      label {
+        color:black;
+    }
+
+
+
+    #myModal {
+        top:5%;
+        /* right:10%; */
+        /* outline: none;
+        overflow:hidden; */
+        }
+
+    
+        /* .modal, select {
+            z-index: 1000;
+          }
+           */
+
+           /* .modal-open select {
+            z-index: 1051;
+          } */
+
+          /* select{
+            padding: 15px;
+          }
+           */
+
+           .modal-body {
+            padding: 2px 16px;
+        }
+
+        /* #b{
+            border:8px solid black;
+        } */
+
+        button a{
+            text-decoration: none;
+            color: black;
+        } 
+    
+        .btn-primary, a {
+            background-color: #CF9FFF !important;
+                text-decoration: none;
+                color:black !important;
+            
+        }   

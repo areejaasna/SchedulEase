@@ -1,0 +1,92 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+nav{
+    background-color: #CF9FFF;
+    font-weight:600;
+}
+
+nav a .color-me{
+    color: black;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+nav a{
+    text-decoration: none;
+    color:black;
+} 
+
+
+
+
+
+  
+  /* .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited, a {
+    background-color: #CF9FFF !important;
+        text-decoration: none;
+        color:black;
+    
+} */
+
+/* select {
+    width: 200px;
+    border: 1px solid #ccc;
+    position:fixed;
+    left:460px;
+    
+  }
+  
+  button {
+    
+ 
+    left:250px;
+    padding: 0px;
+    width: 200px;
+    background-color: #CF9FFF ;
+    border: 1px solid #ccc;
+    font-weight:400;
+    font-size:200px;
+  }
+  div select, button{
+    height:40px;
+  }
+
+  
+  .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited, a {
+    background-color: #CF9FFF !important;
+        text-decoration: none;
+        color:black;
+    
+} */
+
+
+select {
+    width: 200px;
+    border: 1px solid #ccc;
+    /* position:fixed; */
+    left:550px;
+    
+  }
+  
+  button {
+    /* position:fixed; */
+    /* left:867px; */
+    left:750px;
+    padding: 0px;
+    width: 200px;
+    background-color: #CF9FFF ;
+    border: 1px solid #ccc;
+    font-weight:400;
+    font-size:200px;
+  }
+  div select, button{
+    height:40px;
+  }
