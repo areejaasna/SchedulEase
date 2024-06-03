@@ -47,6 +47,10 @@ Through this project, we have effectively addressed a practical issue, significa
 ![Alt text](readme_images/allot_selection.png)
 #
 
+#
+![Alt text](readme_images/theory_allot.png)
+#
+
 ## Generate Timetable
 - After successfully providing the details and allotting the subjects to the respective teachers, we can generate the schedule.
 #
